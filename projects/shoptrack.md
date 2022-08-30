@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/shoptrack_logo.png
 title: "ShopTrack"
 date: 2022-08-29
 labels:
