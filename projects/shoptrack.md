@@ -4,6 +4,7 @@ type: project
 image: img/shoptrack_logo.png
 title: "ShopTrack"
 date: 2022-08-29
+published: false
 labels:
   - Javascript
   - Technology
